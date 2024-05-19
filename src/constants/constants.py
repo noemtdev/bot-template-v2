@@ -1,0 +1,1 @@
+some_important_constant = 42

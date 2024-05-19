@@ -1,0 +1,10 @@
+git+https://github.com/Pycord-Development/pycord@feat/ua
+pymongo
+aiohttp
+numerize
+Pillow==9.3.0
+chat-exporter==2.5.3
+pyotp
+quart
+quart-cors
+python-dotenv
